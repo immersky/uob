@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>image_355.jpg</filename>
+	<path>C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\myOriginalData\new\JPEGImages\image_355.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>line</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>6</ymin>
+			<xmax>1920</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

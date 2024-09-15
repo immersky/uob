@@ -1,0 +1,12 @@
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_332.jpg 4,518,957,1080,0
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_339.jpg 2,430,1027,1080,0
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_343.jpg 9,147,1793,1080,0
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_383.jpg 946,583,1397,987,1
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_398.jpg 952,515,1456,967,1
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_424.jpg 34,520,1455,904,2
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_435.jpg 25,89,1423,552,2
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_436.jpg 59,119,1411,629,2
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_458.jpg 851,422,1220,666,1 1093,155,1350,346,1
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_461.jpg 900,400,1193,670,1 998,168,1248,320,1
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_467.jpg 848,492,1184,741,1 970,195,1265,422,1
+C:\Users\17372\Desktop\birstol\priority\yolov7\yolov7-tiny-pytorch\VOCdevkit/VOC2007/JPEGImages/image_474.jpg 894,596,1156,854,1 1023,289,1352,561,1
